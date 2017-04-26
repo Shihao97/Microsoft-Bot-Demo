@@ -1,0 +1,41 @@
+E:\vs projects\HaohaoBot\HaohaoBot\bin\Bot Application.dll.config
+E:\vs projects\HaohaoBot\HaohaoBot\bin\Bot Application.dll
+E:\vs projects\HaohaoBot\HaohaoBot\bin\Bot Application.pdb
+E:\vs projects\HaohaoBot\HaohaoBot\bin\Autofac.dll
+E:\vs projects\HaohaoBot\HaohaoBot\bin\Chronic.dll
+E:\vs projects\HaohaoBot\HaohaoBot\bin\Microsoft.Bot.Builder.Autofac.dll
+E:\vs projects\HaohaoBot\HaohaoBot\bin\Microsoft.Bot.Builder.dll
+E:\vs projects\HaohaoBot\HaohaoBot\bin\Microsoft.Bot.Connector.dll
+E:\vs projects\HaohaoBot\HaohaoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+E:\vs projects\HaohaoBot\HaohaoBot\bin\Microsoft.Rest.ClientRuntime.dll
+E:\vs projects\HaohaoBot\HaohaoBot\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\vs projects\HaohaoBot\HaohaoBot\bin\Newtonsoft.Json.dll
+E:\vs projects\HaohaoBot\HaohaoBot\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\vs projects\HaohaoBot\HaohaoBot\bin\System.Net.Http.Formatting.dll
+E:\vs projects\HaohaoBot\HaohaoBot\bin\System.Web.Http.dll
+E:\vs projects\HaohaoBot\HaohaoBot\bin\System.Web.Http.WebHost.dll
+E:\vs projects\HaohaoBot\HaohaoBot\bin\Autofac.xml
+E:\vs projects\HaohaoBot\HaohaoBot\bin\Microsoft.Bot.Builder.xml
+E:\vs projects\HaohaoBot\HaohaoBot\bin\Microsoft.Bot.Builder.Autofac.xml
+E:\vs projects\HaohaoBot\HaohaoBot\bin\Microsoft.Bot.Connector.xml
+E:\vs projects\HaohaoBot\HaohaoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+E:\vs projects\HaohaoBot\HaohaoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+E:\vs projects\HaohaoBot\HaohaoBot\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\vs projects\HaohaoBot\HaohaoBot\bin\Newtonsoft.Json.xml
+E:\vs projects\HaohaoBot\HaohaoBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+E:\vs projects\HaohaoBot\HaohaoBot\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\vs projects\HaohaoBot\HaohaoBot\bin\System.Net.Http.Formatting.xml
+E:\vs projects\HaohaoBot\HaohaoBot\bin\System.Web.Http.xml
+E:\vs projects\HaohaoBot\HaohaoBot\bin\System.Web.Http.WebHost.xml
+E:\vs projects\HaohaoBot\HaohaoBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+E:\vs projects\HaohaoBot\HaohaoBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+E:\vs projects\HaohaoBot\HaohaoBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+E:\vs projects\HaohaoBot\HaohaoBot\bin\en\Microsoft.Bot.Builder.resources.dll
+E:\vs projects\HaohaoBot\HaohaoBot\bin\es\Microsoft.Bot.Builder.resources.dll
+E:\vs projects\HaohaoBot\HaohaoBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+E:\vs projects\HaohaoBot\HaohaoBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+E:\vs projects\HaohaoBot\HaohaoBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+E:\vs projects\HaohaoBot\HaohaoBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+E:\vs projects\HaohaoBot\HaohaoBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+E:\vs projects\HaohaoBot\HaohaoBot\obj\Release\Bot Application.dll
+E:\vs projects\HaohaoBot\HaohaoBot\obj\Release\Bot Application.pdb
